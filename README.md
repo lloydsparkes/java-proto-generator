@@ -1,8 +1,9 @@
 ##Java to Proto
 
 Copyright - Lloyd Sparkes 2012
-LICENSE: Public Domain - do as you wish, just retain this message.
-				I just ask that if you find bugs or improve the code, you raise a push request or an issue, so I can update the code for everyone
+
+LICENSE: Public Domain - do as you wish, just retain this message. I just ask that if you find bugs or improve the code, you raise a push request or an issue, so I can update the code for everyone
+				
 DISCLAIMER: I am not responsible for your usage of this code, or for any bugs or issues with this code or any resulting side effects
 
 This class simply takes a POJO and creates the associated Proto Buffer Specification File.
